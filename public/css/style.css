@@ -1,0 +1,7 @@
+body {
+  background-color: blue;
+}
+
+#send-status {
+  display: none;
+}
